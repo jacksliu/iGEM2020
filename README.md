@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# igem_demo
-igem_wiki_demo
-=======
-# igem
-
 ## Project setup
 ```
 yarn install
